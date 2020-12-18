@@ -2,8 +2,8 @@
 
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
-[![GitHub Forks](https://img.shields.io/github/forks/harismuneer/Library-Management-System-JAVA.svg?style=social&label=Fork&maxAge=2592000)](https://www.github.com/harismuneer/Library-Management-System-JAVA/fork)
-[![GitHub Issues](https://img.shields.io/github/issues/harismuneer/Library-Management-System-JAVA.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/harismuneer/Library-Management-System-JAVA/issues)
+[![GitHub Forks](https://img.shields.io/github/forks/yasir2000/Java_Project.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/yasir2000/Java_Project/fork)
+[![GitHub Issues](https://img.shields.io/github/issues/https://github.com/yasir2000/Java_Project.svg?style=flat&label=Issues&maxAge=2592000)](https://github.com/yasir2000/Java_Project/issues)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
 
 
@@ -84,7 +84,7 @@ borrowed.
   Host: localhost
   Port: 1527
   Database: LMS
-  User Name: haris
+  User Name: admin
   Password: 123
   ``` 
 ![step3](../master/images/step3.PNG)
@@ -99,21 +99,6 @@ The password for Administrative Functions is *lib*. The admin adds new clerks an
 
 -----
 
-## Authors 👋
-
-You can get in touch with us on our LinkedIn Profiles:
-
-#### Haris Muneer
-
-[![LinkedIn Link](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect)](https://www.linkedin.com/in/harismuneer)
-
-You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/harismuneer)
-
-#### Maham Amjad
-
-[![LinkedIn Link](https://img.shields.io/badge/Connect-maham--amjad-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect)](https://www.linkedin.com/in/maham-amjad-40796b177/)
-
-You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-maham--amjad-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/MahamAmjad)
 
 If you liked the repo then please support it by giving it a star ⭐!
 
@@ -124,11 +109,11 @@ If you liked the repo then please support it by giving it a star ⭐!
 If you find any bug in the code or have any improvements in mind then feel free to generate a pull request.
 
 ## Issues
-[![GitHub Issues](https://img.shields.io/github/issues/harismuneer/Library-Management-System-JAVA.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/harismuneer/Library-Management-System-JAVA/issues)
+[![GitHub Issues](https://img.shields.io/github/issues/yasir2000/Java_Project-JAVA.svg?style=flat&label=Issues&maxAge=2592000)](https://github.com/yasir2000/Java_Project/issues)
 
 If you face any issue, you can create a new issue in the Issues Tab and I will be glad to help you out.
 
 ## License
 [![MIT](https://img.shields.io/cocoapods/l/AFNetworking.svg?style=style&label=License&maxAge=2592000)](../master/LICENSE)
 
-Copyright (c) 2018-present, harismuneer, MahamAmjad                                                       
+Copyright (c) 2020 -present                                                   
